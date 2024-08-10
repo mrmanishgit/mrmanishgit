@@ -1,3 +1,4 @@
+![logo](https://github.com/mrmanishgit/mrmanishgit/blob/main/%2B91-7205294038.png)
 <h1 align="center">Hi 👋, I'm Manish Maharana</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
