@@ -1,8 +1,17 @@
 
+<!-- ===================================================== -->
+<!--                 MANISH MAHARANA                       -->
+<!--              GITHUB PROFILE README                    -->
+<!-- ===================================================== -->
+
 <!-- ===================== HEADER BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f3b82,100:7c3aed&height=250&section=header&text=MANISH%20MAHARANA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlignY=55&descSize=20" width="100%" alt="Manish Maharana Banner"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f3b82,100:7c3aed&height=200&section=header&text=MANISH%20MAHARANA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20JAVA%20DEVELOPER&descAlignY=58&descSize=17"
+    width="100%"
+    alt="Manish Maharana Banner"
+  />
 </p>
 
 <!-- ===================== INTRODUCTION ===================== -->
@@ -14,24 +23,36 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrmanishgit&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/mrmanishgit">
+    <img src="https://komarev.com/ghpvc/?username=mrmanishgit&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+  </a>
   <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Developer"/>
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge" alt="Open to Opportunities"/>
 </p>
 
-<!-- ===================== ABOUT ME ===================== -->
+<p align="center">
+  <a href="https://github.com/mrmanishgit">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+  <a href="mailto:maharanamanish91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
+
 ## 🚀 About Me
 
-<img align="right" alt="Coding Animation" width="350" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+<img align="right" alt="Coding Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 👨‍💻 I'm **Manish Maharana**, a passionate Full Stack Developer.
+- 👨‍💻 I'm **Manish Maharana**, a passionate Full Stack Java Developer.
 - 🔭 Currently working on Java development projects.
 - 🌱 Learning and improving my Full Stack Java development skills.
 - 💡 Interested in building real-world applications.
 - ⚙️ Exploring Spring Boot, React.js, and backend development.
+- 🗄️ Experienced with relational databases and application development.
 - 📫 Email: **[maharanamanish91@gmail.com](mailto:maharanamanish91@gmail.com)**
 - 📄 [View My Resume](https://github.com/mrmanishgit/Resume)
 - ⚡ Fun fact: I am funny 😊
@@ -52,7 +73,7 @@
     </td>
     <td width="50%" align="center">
       <h3>🎨 Frontend Development</h3>
-      React.js • HTML • CSS • JavaScript
+      React.js • HTML5 • CSS3 • JavaScript
     </td>
   </tr>
   <tr>
@@ -69,7 +90,7 @@
 
 ---
 
-<!-- ===================== TECHNOLOGIES ===================== -->
+<!-- ===================== TECH STACK ===================== -->
 
 ## 💻 Languages and Tools
 
@@ -118,6 +139,44 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Core Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Projects
+
+### 🌍 Aja Tourism Corporation
+
+Tourism management system with travel packages, bookings, payments, and administration features.
+
+**Tech Stack:** React.js • Spring Boot • MySQL
+
+### 🚌 Odisha RouteMate
+
+A bus route discovery and transportation information platform designed around Odisha routes and stops.
+
+**Tech Stack:** React.js • Spring Boot • Database Integration
+
+### 🚌 Odisha Tracker
+
+A real-time bus and train tracking system concept for Odisha.
+
+**Tech Stack:** React.js • Spring Boot
+
+### 🧠 Quiz Application
+
+A quiz application with a backend API and database integration.
+
+**Tech Stack:** React.js • Spring Boot • MySQL / H2
+
 ---
 
 <!-- ===================== CONNECT WITH ME ===================== -->
@@ -155,12 +214,24 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrmanishgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanishgit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mrmanishgit&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanishgit&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmanishgit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=mrmanishgit&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="70%"
+  />
 </p>
 
 ---
@@ -170,7 +241,11 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmanishgit&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mrmanishgit&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
@@ -183,13 +258,18 @@
 - 💻 Improving frontend development with React.js.
 - 🧠 Practicing problem-solving and coding challenges.
 - 🌱 Learning new technologies and improving my skills.
+- 🤝 Looking for opportunities to grow as a software developer.
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f3b82,100:020617&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f3b82,100:020617&height=120&section=footer"
+    width="100%"
+    alt="Footer Banner"
+  />
 </p>
 
 <h3 align="center">💙 Thanks for visiting my profile!</h3>
