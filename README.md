@@ -1,41 +1,29 @@
 
-<!-- ===================================================== -->
-<!--                 MANISH MAHARANA                       -->
-<!--              GITHUB PROFILE README                    -->
-<!-- ===================================================== -->
-
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f3b82,100:7c3aed&height=200&section=header&text=MANISH%20MAHARANA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20JAVA%20DEVELOPER&descAlignY=58&descSize=17"
-    width="100%"
-    alt="Manish Maharana Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f3b82,100:7c3aed&height=220&section=header&text=MANISH%20MAHARANA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20JAVA%20DEVELOPER&descAlignY=58&descSize=18" width="100%" alt="Manish Maharana Banner"/>
 </p>
-
-<!-- ===================== INTRODUCTION ===================== -->
 
 <h1 align="center">👋 Hi, I'm Manish Maharana</h1>
 
-<h3 align="center">
-  💻 Full Stack Java Developer | 🇮🇳 India
-</h3>
+<h3 align="center">💻 Full Stack Java Developer | 🇮🇳 India</h3>
 
 <p align="center">
-  <a href="https://github.com/mrmanishgit">
-    <img src="https://komarev.com/ghpvc/?username=mrmanishgit&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mrmanishgit&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Developer"/>
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge" alt="Open to Opportunities"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/mrmanishgit">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:maharanamanish91@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/mrmanishgit/Resume">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-7c3aed?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
@@ -45,14 +33,14 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="340" alt="Coding Animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 👨‍💻 I'm **Manish Maharana**, a passionate Full Stack Java Developer.
+- 👨‍💻 I'm **Manish Maharana**, a passionate Full Stack Developer.
 - 🔭 Currently working on Java development projects.
 - 🌱 Learning and improving my Full Stack Java development skills.
 - 💡 Interested in building real-world applications.
 - ⚙️ Exploring Spring Boot, React.js, and backend development.
-- 🗄️ Experienced with relational databases and application development.
+- 🗄️ Interested in database design and application development.
 - 📫 Email: **[maharanamanish91@gmail.com](mailto:maharanamanish91@gmail.com)**
 - 📄 [View My Resume](https://github.com/mrmanishgit/Resume)
 - ⚡ Fun fact: I am funny 😊
@@ -79,7 +67,7 @@
   <tr>
     <td width="50%" align="center">
       <h3>🗄️ Database Management</h3>
-      MySQL • MongoDB • Oracle
+      MySQL • MongoDB • Oracle • PostgreSQL
     </td>
     <td width="50%" align="center">
       <h3>🚀 Tools & Deployment</h3>
@@ -95,90 +83,60 @@
 ## 💻 Languages and Tools
 
 <p align="center">
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" width="55" alt="Spring"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript"/>
-  </a>
-  <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker"/>
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" width="55" alt="AWS"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,bootstrap,mysql,mongodb,nodejs,git,github,docker,aws&perline=7" alt="Languages and Tools"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Core Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Core Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
 ---
+
 <!-- ===================== PROJECTS ===================== -->
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🌍 Aja Tourism Corporation
-
-Tourism management system with travel packages, bookings, payments, and administration features.
-
-**Tech Stack:** React.js • Spring Boot • MySQL
-
-### 🚌 Odisha RouteMate
-
-A bus route discovery and transportation information platform designed around Odisha routes and stops.
-
-**Tech Stack:** React.js • Spring Boot • Database Integration
-
-### 🚌 Odisha Tracker
-
-A real-time bus and train tracking system concept for Odisha.
-
-**Tech Stack:** React.js • Spring Boot
-
-### 🧠 Quiz Application
-
-A quiz application with a backend API and database integration.
-
-**Tech Stack:** React.js • Spring Boot • MySQL / H2
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 Aja Tourism Corporation</h3>
+      Tourism management system with travel packages, bookings, payments, and administration features.
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      React.js • Spring Boot • MySQL
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚌 Odisha RouteMate</h3>
+      A bus route discovery and transportation information platform for Odisha routes and stops.
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      React.js • Spring Boot • Database Integration
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚆 Odisha Tracker</h3>
+      A bus and train tracking system concept for Odisha.
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      React.js • Spring Boot
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Quiz Application</h3>
+      A quiz application with backend APIs and database integration.
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      React.js • Spring Boot • MySQL / H2
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ===================== CONNECT WITH ME ===================== -->
+<!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Connect With Me
 
@@ -208,43 +166,23 @@ A quiz application with a backend API and database integration.
 
 ---
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<!-- ===================== GITHUB ACTIVITY ===================== -->
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mrmanishgit&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanishgit&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    width="48%"
-  />
+  <a href="https://github.com/mrmanishgit">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Repositories"/>
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mrmanishgit&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="70%"
-  />
-</p>
-
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mrmanishgit&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
-    width="100%"
-  />
+  <a href="https://github.com/mrmanishgit?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-0f3b82?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/mrmanishgit?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Explore%20My%20Stars-7c3aed?style=for-the-badge&logo=github" alt="Stars"/>
+  </a>
 </p>
 
 ---
@@ -264,11 +202,7 @@ A quiz application with a backend API and database integration.
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f3b82,100:020617&height=120&section=footer"
-    width="100%"
-    alt="Footer Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f3b82,100:020617&height=140&section=footer" width="100%" alt="Footer Banner"/>
 </p>
 
 <h3 align="center">💙 Thanks for visiting my profile!</h3>
