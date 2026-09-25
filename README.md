@@ -1,8 +1,11 @@
 
-<!-- ========== PROFILE BANNER ========== -->
+<!-- ===================== HEADER BANNER ===================== -->
+
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Manish Maharana GitHub Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f3b82,100:7c3aed&height=250&section=header&text=MANISH%20MAHARANA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlignY=55&descSize=20" width="100%" alt="Manish Maharana Banner"/>
 </p>
+
+<!-- ===================== INTRODUCTION ===================== -->
 
 <h1 align="center">👋 Hi, I'm Manish Maharana</h1>
 
@@ -11,26 +14,24 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/mrmanishgit">
-    <img src="https://komarev.com/ghpvc/?username=mrmanishgit&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Developer" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge" alt="Open to Opportunities" />
+  <img src="https://komarev.com/ghpvc/?username=mrmanishgit&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Developer"/>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge" alt="Open to Opportunities"/>
 </p>
+
+<!-- ===================== ABOUT ME ===================== -->
 
 ---
 
-<!-- ========== ABOUT ME ========== -->
-
 ## 🚀 About Me
 
-<img align="right" alt="Coding Animation" width="300" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="right" alt="Coding Animation" width="350" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 - 👨‍💻 I'm **Manish Maharana**, a passionate Full Stack Developer.
 - 🔭 Currently working on Java development projects.
 - 🌱 Learning and improving my Full Stack Java development skills.
 - 💡 Interested in building real-world applications.
-- 📚 Exploring Spring Boot, React.js, and backend development.
+- ⚙️ Exploring Spring Boot, React.js, and backend development.
 - 📫 Email: **[maharanamanish91@gmail.com](mailto:maharanamanish91@gmail.com)**
 - 📄 [View My Resume](https://github.com/mrmanishgit/Resume)
 - ⚡ Fun fact: I am funny 😊
@@ -39,7 +40,7 @@
 
 ---
 
-<!-- ========== WHAT I DO ========== -->
+<!-- ===================== WHAT I DO ===================== -->
 
 ## 🛠️ What I Do
 
@@ -68,110 +69,113 @@
 
 ---
 
-<!-- ========== LANGUAGES AND TOOLS ========== -->
+<!-- ===================== TECHNOLOGIES ===================== -->
 
 ## 💻 Languages and Tools
 
 <p align="center">
   <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" width="55" alt="Spring" />
+    <img src="https://skillicons.dev/icons?i=spring" width="55" alt="Spring"/>
   </a>
   <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="55" alt="React" />
+    <img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript"/>
   </a>
   <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
   </a>
   <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap"/>
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB"/>
   </a>
   <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker"/>
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" width="55" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=aws" width="55" alt="AWS"/>
   </a>
 </p>
 
 ---
 
-<!-- ========== CONNECT WITH ME ========== -->
+<!-- ===================== CONNECT WITH ME ===================== -->
 
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/mrmanishgit">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://www.linkedin.com/in/manish-maharana-0855b6226/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@manishmaharana7489">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://www.facebook.com/manish.maharana.965/">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.hackerrank.com/profile/maharanamanish91">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://leetcode.com/u/manish72052/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://codepen.io/mrmanishgit">
-    <img src="https://img.shields.io/badge/CodePen-Profile-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+    <img src="https://img.shields.io/badge/CodePen-Profile-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
 </p>
 
 ---
 
-<!-- ========== GITHUB STATS ========== -->
+<!-- ===================== GITHUB STATISTICS ===================== -->
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrmanishgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanishgit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrmanishgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanishgit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmanishgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmanishgit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<!-- ========== CONTRIBUTION GRAPH ========== -->
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmanishgit&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmanishgit&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
 
-<!-- ========== CURRENT FOCUS ========== -->
+<!-- ===================== CURRENT FOCUS ===================== -->
 
 ## 🎯 Current Focus
 
@@ -182,9 +186,13 @@
 
 ---
 
-<h3 align="center">
-  💙 Thanks for visiting my profile!
-</h3>
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f3b82,100:020617&height=120&section=footer" width="100%" alt="Footer Banner"/>
+</p>
+
+<h3 align="center">💙 Thanks for visiting my profile!</h3>
 
 <p align="center">
   <b>✨ Code • Build • Learn • Repeat ✨</b>
@@ -192,6 +200,6 @@
 
 <p align="center">
   <a href="https://github.com/mrmanishgit">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub"/>
   </a>
 </p>
