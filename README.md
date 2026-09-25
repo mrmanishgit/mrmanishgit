@@ -1,36 +1,197 @@
-![logo](https://github.com/mrmanishgit/mrmanishgit/blob/main/%2B91-7205294038.png)
-<h1 align="center">Hi 👋, I'm Manish Maharana</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmanishgit&label=Profile%20views&color=0e75b6&style=flat" alt="mrmanishgit" /> </p>
-
-- 🔭 I’m currently Working on **java developer project**
-
-- 🌱 I’m currently learning **Full_Stck Java_Developer**
-
-- 📫 How to reach me **maharanamanish91@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/mrmanishgit/Resume](https://github.com/mrmanishgit/Resume)
-
-- ⚡ Fun fact **I am Funny😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/mrmanishgit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mrmanishgit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-maharana-0855b6226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-maharana-0855b6226/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/manish.maharana.965/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/manish.maharana.965/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@manishmaharana7489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@manishmaharana7489" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/maharanamanish91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/maharanamanish91" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/manish72052/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/manish72052/" height="30" width="40" /></a>
+<!-- ========== PROFILE BANNER ========== -->
+<p align="center">
+  <img src="./assets/profile-banner.png" width="100%" alt="Manish Maharana GitHub Profile Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I'm Manish Maharana</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmanishgit&show_icons=true&locale=en&layout=compact" alt="mrmanishgit" /></p>
+<h3 align="center">
+  💻 Full Stack Java Developer | 🇮🇳 India
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmanishgit&show_icons=true&locale=en" alt="mrmanishgit" /></p>
+<p align="center">
+  <a href="https://github.com/mrmanishgit">
+    <img src="https://komarev.com/ghpvc/?username=mrmanishgit&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Developer" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge" alt="Open to Opportunities" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmanishgit&" alt="mrmanishgit" /></p>
+---
+
+<!-- ========== ABOUT ME ========== -->
+
+## 🚀 About Me
+
+<img align="right" alt="Coding Animation" width="300" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+
+- 👨‍💻 I'm **Manish Maharana**, a passionate Full Stack Developer.
+- 🔭 Currently working on Java development projects.
+- 🌱 Learning and improving my Full Stack Java development skills.
+- 💡 Interested in building real-world applications.
+- 📚 Exploring Spring Boot, React.js, and backend development.
+- 📫 Email: **[maharanamanish91@gmail.com](mailto:maharanamanish91@gmail.com)**
+- 📄 [View My Resume](https://github.com/mrmanishgit/Resume)
+- ⚡ Fun fact: I am funny 😊
+
+<br clear="right"/>
+
+---
+
+<!-- ========== WHAT I DO ========== -->
+
+## 🛠️ What I Do
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>⚙️ Backend Development</h3>
+      Java • Spring Boot • REST APIs
+    </td>
+    <td width="50%" align="center">
+      <h3>🎨 Frontend Development</h3>
+      React.js • HTML • CSS • JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🗄️ Database Management</h3>
+      MySQL • MongoDB • Oracle
+    </td>
+    <td width="50%" align="center">
+      <h3>🚀 Tools & Deployment</h3>
+      Git • GitHub • Docker • AWS
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ========== LANGUAGES AND TOOLS ========== -->
+
+## 💻 Languages and Tools
+
+<p align="center">
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring" width="55" alt="Spring" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="55" alt="React" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript" />
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5" />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker" />
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://skillicons.dev/icons?i=aws" width="55" alt="AWS" />
+  </a>
+</p>
+
+---
+
+<!-- ========== CONNECT WITH ME ========== -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manish-maharana-0855b6226/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@manishmaharana7489">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.facebook.com/manish.maharana.965/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/maharanamanish91">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/u/manish72052/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codepen.io/mrmanishgit">
+    <img src="https://img.shields.io/badge/CodePen-Profile-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+</p>
+
+---
+
+<!-- ========== GITHUB STATS ========== -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrmanishgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmanishgit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmanishgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- ========== CONTRIBUTION GRAPH ========== -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmanishgit&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
+---
+
+<!-- ========== CURRENT FOCUS ========== -->
+
+## 🎯 Current Focus
+
+- 🚀 Building real-world Java and Spring Boot applications.
+- 💻 Improving frontend development with React.js.
+- 🧠 Practicing problem-solving and coding challenges.
+- 🌱 Learning new technologies and improving my skills.
+
+---
+
+<h3 align="center">
+  💙 Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+  <b>✨ Code • Build • Learn • Repeat ✨</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrmanishgit">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+  </a>
+</p>
